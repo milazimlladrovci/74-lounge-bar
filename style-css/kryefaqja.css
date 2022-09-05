@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    background: url(https://scontent.fprn4-1.fna.fbcdn.net/v/t1.6435-9/131462145_102332311764212_7176424864086417288_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=e3f864&_nc_ohc=E0H_Us0rowoAX_Ai8qK&tn=csiBUKPrq6NFIsYR&_nc_ht=scontent.fprn4-1.fna&oh=00_AT9QhFTOjEL9pfzpnCcSa6Q_n9FVzhOWfXSP5xi9HmZHVQ&oe=62E4581C);
+    background-size: 1770px;
+}
+ 
+pre{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin-top: 210px;
+    margin-left: -185px;
+    
+}
+
+a {
+    background: white;
+}

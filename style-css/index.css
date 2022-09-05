@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background: url(https://scontent.fprn4-1.fna.fbcdn.net/v/t1.6435-9/131361606_102456145085162_3309599734928969888_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=e3f864&_nc_ohc=EW5C6uLdC44AX-6q4wq&tn=csiBUKPrq6NFIsYR&_nc_ht=scontent.fprn4-1.fna&oh=00_AT_dxdxN4L4t1WOw60Y2LuvuK59CLMxJWBn5zOrHzHlIcQ&oe=62E4E4BF);
+background-size: 1770px;
+}
+
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.menu li {
+    display: inline;
+}
+
+.menu a {
+    display: inline-block;
+    text-decoration: none;
+    padding: 20px;
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    background: chocolate; 
+    margin-left: 15px;
+    border-radius: 0px 0px 25px 25px;
+}
+
+
+
